@@ -26,7 +26,7 @@
 
 ## 一键部署
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/michaldorn4736/heroku-1/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/michaldorn4736/heroku-12/tree/main)
 
 ## Github Actions 管理
 
